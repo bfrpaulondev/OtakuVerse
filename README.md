@@ -5,7 +5,6 @@ OtakuVerse is an online platform dedicated to bringing anime and gaming enthusia
 ## Main features
 
 - **Custom Design**: OtakuVerse features a unique and personalized design, reflecting the unique personality and interests of its creators.
-- **Customization Flexibility**: The template offers a wide range of customization options so you can adapt it to the specific needs of the OtakuVerse community.
 - **Multiplatform Compatibility**: Ensures a consistent experience across all devices, from desktop computers to mobile devices.
 - **Interactive Components**: Interactive elements, such as sliders and call-to-action buttons, are incorporated to provide an engaging user experience.
 - **Intuitive Navigation**: The navigation has been carefully designed to be intuitive and easy to use, including a dropdown menu and an off-canvas search option.
