@@ -1,4 +1,4 @@
-#OtakuVerse
+# OtakuVerse
 
 OtakuVerse is an online platform dedicated to bringing anime and gaming enthusiasts together in one space. Inspired by the passion for these two forms of entertainment, OtakuVerse provides an immersive, interactive experience for fans to share their experiences, discover new content, and connect with other members of the community. Developed with Bootstrap 4 technology, OtakuVerse is a modern and robust solution for creating your own hub dedicated to the world of anime.
 
